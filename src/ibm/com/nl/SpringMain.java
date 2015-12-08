@@ -9,7 +9,8 @@ public class SpringMain {
 		AbstractApplicationContext factory = new ClassPathXmlApplicationContext("Beans.xml");
 		HelloWorld obj = (HelloWorld) factory.getBean("helloWorld");
 		System.out.println(obj.getMessage());
-
+		System.out.println("Hallo");
+		System.out.println("HIhiHI");
 	}
 
 }
