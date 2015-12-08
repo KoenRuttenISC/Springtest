@@ -10,8 +10,7 @@ public class SpringMain {
 		HelloWorld obj = (HelloWorld) factory.getBean("helloWorld");
 		System.out.println(obj.getMessage());
 		System.out.println("test");
-		
-
+		System.out.println("test2");
 		
 
 
