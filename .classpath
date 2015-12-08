@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="C:/data/tools/spring-framework-4.2.3.RELEASE-dist/spring-framework-4.2.3.RELEASE/libs/spring-aop-4.2.3.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/data/tools/spring-framework-4.2.3.RELEASE-dist/spring-framework-4.2.3.RELEASE/libs/spring-aspects-4.2.3.RELEASE.jar"/>
@@ -23,5 +24,9 @@
 	<classpathentry kind="lib" path="C:/data/tools/spring-framework-4.2.3.RELEASE-dist/spring-framework-4.2.3.RELEASE/libs/spring-webmvc-portlet-4.2.3.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/data/tools/spring-framework-4.2.3.RELEASE-dist/spring-framework-4.2.3.RELEASE/libs/spring-websocket-4.2.3.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/data/tools/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar"/>
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring"/>
+>>>>>>> ffd40423912b45afe0a61175b7de71c69fd2771f
 	<classpathentry kind="output" path="bin"/>
 </classpath>
