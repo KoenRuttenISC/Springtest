@@ -11,6 +11,9 @@ public class SpringMain {
 		System.out.println(obj.getMessage());
 		System.out.println("Hallo");
 		System.out.println("HIhiHI");
+		
+		
+		
 	}
 
 }
